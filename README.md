@@ -6,3 +6,5 @@ I am **Mustafa**, a software developer based in Istanbul.
 
 📖 [at *Medium*]([https://medium.com/your-profile](https://medium.com/@mustafadikyar))  
 🔗 [at *LinkedIn*]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mustafadikyar/))  
+
+![Profile Views](https://komarev.com/ghpvc/?username=mustafadikyar&color=green)  
